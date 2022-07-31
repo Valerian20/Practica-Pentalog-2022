@@ -3,3 +3,5 @@ Aplicatie de prezentare a restaurantelor din Brasov
 -sunt afisate toate restaurantele
 -clientul poate vedea detalii despre fiecare restaurant (meniu, locatie, imagini cu locatia, etc)
 -posibilitatea de a face rezervari cu un form iar confirmarea sa vina pe mail
+
+Buna ziua ma numesc doamna popa elena luminita
