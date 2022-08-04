@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "fullName": "La Ceaun",
+    "address": "Strada Michael Weiss 27, Brașov 500031",
+    "phoneNumber": "075476541",
+    "email": "laceaun@email.com"
+  },
+  {
+    "id": 2,
+    "fullName": "Prato",
+    "address": "Strada Michael Weiss 11, Brașov 500031",
+    "phoneNumber": "0751889001",
+    "email": "prato@email.com"
+  },
+  {
+    "id": 3,
+    "fullName": "Sergiana",
+    "address": "Strada Mureșenilor 28, Brașov 500030",
+    "phoneNumber": "0751789023",
+    "email": "sergiana@email.com"
+  },
+  {
+    "id": 4,
+    "fullName": "Dei Frati",
+    "address": "Piața George Enescu Nr16, Brașov 500031",
+    "phoneNumber": "0724216028",
+    "email": "deifrati@email.com"
+  },
+  {
+    "id": 5,
+    "fullName": "Pilvax Restaurant & Wine Bar",
+    "address": "Strada Michael Weiss 16, Brașov 500031",
+    "phoneNumber": "0732456901",
+    "email": "pilvax@email.com"
+  },
+
+  {
+    "id": 6,
+    "fullName": "Bistro de l'Arte",
+    "address": " Piața George Enescu 11Bis, Brașov 500031",
+    "phoneNumber": "0720 535 566",
+    "email": "bistro@email.com"
+  },
+  {
+    "id": 7,
+    "fullName": "Casa Hirscher",
+    "address": "Strada Apollonia Hirscher 5, Brașov 500015",
+    "phoneNumber": "0762457901",
+    "email": "hirscher@email.com"
+  },
+  {
+    "id": 8,
+    "fullName": "Vino e Sapori",
+    "address": "Strada George Barițiu 13, Brașov 500025",
+    "phoneNumber": "0751612903",
+    "email": "vino@email.com"
+  },
+  {
+    "id": 9,
+    "fullName": "Casa Tudor",
+    "address": "Strada Avram Iancu 58, Brașov 500075",
+    "phoneNumber": "0751783215",
+    "email": "tudor@email.com"
+  },
+  {
+    "id": 10,
+    "fullName": "Sub Tâmpa",
+    "address": " Aleea pietonala de sub Tampa, Aleea Tiberiu Brediceanu, Brașov 500014",
+    "phoneNumber": "0740316661",
+    "email": "subtampa@email.com"
+  }
+]
